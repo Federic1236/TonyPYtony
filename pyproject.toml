@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tonypytony"
+version = "0.1.0"
+description = "TonyPytony Language"
+readme = "README.md"
+requires-python = ">=3.7"
+authors = [{name = "Federic"}]
+
+[project.scripts]
+tony = "tonypytony.interpreter:main"
+tony-setup = "tonypytony.install_tony:install"
