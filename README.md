@@ -1,10 +1,10 @@
-# TonyPytony 🚀
+# TonyPytony 
 
 **TonyPytony** è un linguaggio di programmazione interpretato, leggero e orientato al "grind". Progettato per essere semplice, veloce e con una sintassi unica, permette di gestire variabili e operazioni logiche con un approccio moderno e diretto.
 
 ---
 
-## 🛠️ Architettura Tecnica
+##  Architettura Tecnica
 
 Il linguaggio è basato su un motore di esecuzione scritto in Python 3.14. Utilizza un sistema di parsing riga per riga per interpretare comandi personalizzati, rendendolo ideale per l'automazione rapida e lo sviluppo di script di sistema.
 
@@ -15,7 +15,7 @@ Il linguaggio è basato su un motore di esecuzione scritto in Python 3.14. Utili
 
 ---
 
-## ⌨️ Sintassi e Comandi
+##  Sintassi e Comandi
 
 | Comando | Descrizione | Esempio |
 | :--- | :--- | :--- |
@@ -26,7 +26,7 @@ Il linguaggio è basato su un motore di esecuzione scritto in Python 3.14. Utili
 
 ---
 
-## 🚀 Installazione
+##  Installazione
 
 Puoi installare TonyPytony direttamente dalla cartella sorgente per utilizzarlo come comando globale nel tuo terminale.
 
@@ -39,4 +39,7 @@ Puoi installare TonyPytony direttamente dalla cartella sorgente per utilizzarlo 
 2. Esegui il comando di installazione:
    ```bash
 
-   pip install -e .
+   pip install tonypytony
+   choco install tonypytony
+   brew install tonypytony
+
