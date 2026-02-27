@@ -40,6 +40,6 @@ Puoi installare TonyPytony direttamente dalla cartella sorgente per utilizzarlo 
    ```bash
 
    pip install tonypytony
-   choco install tonypytony
    brew install tonypytony
+
 
