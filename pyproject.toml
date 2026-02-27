@@ -1,5 +1,5 @@
 [build-system]
-requires = ["setuptools>=61.0"]
+requires = ["setuptools>=61.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
@@ -9,6 +9,10 @@ description = "TonyPytony Language"
 readme = "README.md"
 requires-python = ">=3.7"
 authors = [{name = "Federic"}]
+
+dependencies = [
+    "colorama"
+]
 
 [project.scripts]
 tony = "tonypytony.interpreter:main"
