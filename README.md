@@ -38,4 +38,5 @@ Puoi installare TonyPytony direttamente dalla cartella sorgente per utilizzarlo 
 1. Posizionati nella cartella del progetto.
 2. Esegui il comando di installazione:
    ```bash
+
    pip install -e .
