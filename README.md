@@ -20,10 +20,13 @@ Il linguaggio è basato su un motore di esecuzione scritto in Python 3.14. Utili
 | Comando | Descrizione | Esempio |
 | :--- | :--- | :--- |
 | `bomboroide` | Dichiarazione/Assegnazione di una variabile. | `bomboroide x = 10` |
-| `urla` | Stampa un valore o una variabile nel terminale. | `urla "Hello World"` |
+| `crea_ai` | Inizializza un client AI (OpenAI, Local o Local_HF). | `crea_ai bot openai` |
+| `urla` | Stampa un valore o una variabile nel terminale. | `urla "Hello World` |
 | `movimento` | Somma numeri o concatena stringhe. | `x movimento y` |
-| `//` | Commento (le righe che iniziano con // vengono ignorate). | `// Questo è un commento` |
-
+| `usa` | Importa moduli Python (es. math, os, requests). | `usa math as m` |
+| `usa_tutto` | Importa l'intero set di librerie predefinite. | `usa_tutto` |
+| `alias` | Crea un riferimento diretto a un oggetto Python. | `alias log = math.log10` |
+| `//` | Commento (le righe iniziali vengono ignorate). | `// Questo è un commento` |
 ---
 
 ##  Installazione
@@ -41,5 +44,4 @@ Puoi installare TonyPytony direttamente dalla cartella sorgente per utilizzarlo 
 
    pip install tonypytony
    brew install tonypytony
-
 
