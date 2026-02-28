@@ -45,3 +45,14 @@ Puoi installare TonyPytony direttamente dalla cartella sorgente per utilizzarlo 
    pip install tonypytony
    brew install tonypytony
 
+© 2025-2026 TonyPytony Team. Tutti i diritti riservati.
+Creato da Federic, Garnaaax e Mattia De Vincentis (che ha creato l'idea). Questa è una versione di Python open-source progettata per l'accessibilità e l'innovazione nel campo dell'automazione.
+
+Il codice è distribuito sotto licenza MIT. Puoi modificare, distribuire e utilizzare il software, a patto di includere l'attribuzione originale agli autori sopra citati.
+
+TonyPytony è un progetto comunitario: il contributo di Mattia De Vincentis alla visione originale rimane il pilastro fondamentale di questa implementazione.
+  
+
+
+    
+
