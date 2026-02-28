@@ -8,7 +8,7 @@ version = "0.1.0"
 description = "TonyPytony Language"
 readme = "README.md"
 requires-python = ">=3.7"
-authors = [{name = "Federic"}]
+authors = [{name = "Federic, Garnaaax e Mattia De Vincentis"}]
 
 dependencies = [
     "colorama"
@@ -17,3 +17,4 @@ dependencies = [
 [project.scripts]
 tony = "tonypytony.interpreter:main"
 tony-setup = "tonypytony.install_tony:install"
+
